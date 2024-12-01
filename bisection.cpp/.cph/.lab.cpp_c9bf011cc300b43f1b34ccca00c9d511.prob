@@ -1,0 +1,1 @@
+{"name":"Local: lab","url":"c:\\bisection\\bisection.cpp\\lab.cpp","tests":[{"id":1731911332804,"input":"-2 0.9 1.1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\bisection\\bisection.cpp\\lab.cpp","group":"local","local":true}
